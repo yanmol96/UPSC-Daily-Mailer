@@ -130,7 +130,7 @@ requirements.txt
 
 ### 3. Set API keys
 
-export GOOGLE_API_KEY="your_key" export EMAIL_PASS="your_email_password"
+export GOOGLE_API_KEY="your_key"
 
 ------------------------------------------------------------------------
 
