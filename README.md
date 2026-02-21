@@ -162,7 +162,7 @@ Runs automatically at 7 AM.
 
 ## 👨‍💻 Author
 
-Lakshya Yadav
+Anmol Yadav
 
 Focused on: - AI + Education - RAG systems - UPSC automation tools
 
